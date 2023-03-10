@@ -244,7 +244,7 @@ Now let's change our recently automated release from _draft_ to _latest release_
 </details>
 
 <!--Step 6-->
-<details id=6 open>
+<details id=6>
 <summary><h2>Step 6: Commit a hotfix to the release</h2></summary>
 
 _Almost there :heart:_
@@ -292,7 +292,7 @@ Now we want these changes merged into `main` as well so let's create and merge a
 </details>
 
 <!--Step 7-->
-<details id=7>
+<details id=7 open>
 <summary><h2>Step 7: Create release v1.0.1</h2></summary>
 
 _One last step to go!_
