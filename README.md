@@ -292,7 +292,7 @@ Now we want these changes merged into `main` as well so let's create and merge a
 </details>
 
 <!--Step 7-->
-<details id=7 open>
+<details id=7>
 <summary><h2>Step 7: Create release v1.0.1</h2></summary>
 
 _One last step to go!_
@@ -319,7 +319,7 @@ With descriptive pull requests and auto generated release notes, you don't have 
 
 </details>
 
-<details id=x>
+<details id=x open>
 <summary><h2>Finish</h2></summary>
 
 <img src="https://octodex.github.com/images/snowtocat_final.jpg" alt=celebrate width=300 align=right>
